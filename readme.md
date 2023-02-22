@@ -1,1 +1,1 @@
-![view](./view.png)
+![view](./assets/imgs/view.png)
